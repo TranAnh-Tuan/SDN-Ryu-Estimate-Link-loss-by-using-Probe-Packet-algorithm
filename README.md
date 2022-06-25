@@ -61,4 +61,4 @@
     > sudo python probe_packet.py
 
 - Go to the second terminal and wait a moment you will see the result like this:
-    ![]()
+    ![](https://github.com/TranAnh-Tuan/SDN-Ryu-Estimate-Link-loss-by-using-Probe-Packet-algorithm/blob/main/Link-loss/probe_packet.py)
