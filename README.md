@@ -1,4 +1,4 @@
-# SDN-Ryu-Estimate-Link-loss-by-using-Probe-Packet-algorithm (Ubuntu 20.04)
+# SDN Ryu Estimate Link loss by using Probe Packet algorithm (Ubuntu 20.04)
 
 ## Step 1: Build the Topology by using mininet and ryu:
 
